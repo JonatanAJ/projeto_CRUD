@@ -3,12 +3,13 @@ meu primeiro projeto utilizando php e mysql
 
 # Projeto CRUD com PHP, MySQL e Bootstrap 5
 1. Introdução
+   
 O projeto consiste em um sistema CRUD (Create, Read, Update, Delete) desenvolvido em PHP, utilizando MySQL como banco de dados e Bootstrap 5 para a interface de usuário. Este sistema permite o cadastro, listagem, edição e exclusão de usuários.
 
 # 2. Requisitos
-Servidor web (por exemplo, Apache) com suporte a PHP
-Banco de dados MySQL
-Bootstrap 5 (arquivos CSS e JS)
+ Servidor web (por exemplo, Apache) com suporte a PHP
+ Banco de dados MySQL
+ Bootstrap 5 (arquivos CSS e JS)
 
 # 3. Estrutura de Arquivos
 index.php: Página inicial que inclui as diferentes partes do projeto com base na variável page.

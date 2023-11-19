@@ -12,15 +12,22 @@ Bootstrap 5 (arquivos CSS e JS)
 
 # 3. Estrutura de Arquivos
 index.php: Página inicial que inclui as diferentes partes do projeto com base na variável page.
+
 config.php: Arquivo de configuração que contém as informações de conexão com o banco de dados.
+
 novo-usuario.php: Formulário para cadastrar um novo usuário.
+
 listar-usuario.php: Página para listar todos os usuários cadastrados.
+
 editar-usuario.php: Formulário para editar um usuário existente.
+
 salvar-usuario.php: Script para processar as operações de cadastro, edição e exclusão.
 
 # 4. Funcionalidades
 4.1. Cadastrar Novo Usuário
+
 Acesse a página "Novo Usuário" através do link no menu.
+
 Preencha o formulário com nome, email, senha e data de nascimento.
 Clique no botão "Enviar" para cadastrar o novo usuário.
 4.2. Listar Usuários

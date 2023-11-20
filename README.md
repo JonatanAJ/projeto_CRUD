@@ -44,12 +44,12 @@ Faça as alterações desejadas e clique no botão "Enviar" para salvar as alter
 Na página "Listar Usuários", clique no botão "Excluir" ao lado do usuário desejado.
 Será exibida uma confirmação antes da exclusão definitiva do usuário.
 
-# 6. Segurança
+# 5. Segurança
 Usei prepared statements para evitar injeções de SQL.
 
 Utilizei o método md5 apenas para fins educacionais; em ambientes de produção, utilize algoritmos mais seguros para o armazenamento de senhas, como bcrypt.
 
-# 7. Considerações Finais
+# 6. Considerações Finais
 Este projeto fornece uma estrutura básica para um sistema CRUD usando PHP, MySQL e Bootstrap 5.
 
 Nota: Este é um exemplo educacional e deve ser adaptado para ambientes de produção, especialmente em relação à segurança e boas práticas de programação.
